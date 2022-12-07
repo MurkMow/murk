@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\egori\Desktop\учеба\Курс прога\курсовая\курсовая\Source.cpp(35,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\egori\Desktop\учеба\Курс прога\курсовая\курсовая\Source.cpp(40,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\egori\Desktop\учеба\Курс прога\курсовая\курсовая\Source.cpp(59,10): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "const char *(*)[100]"
+C:\Users\egori\Desktop\учеба\Курс прога\курсовая\курсовая\Source.cpp(84,13): warning C4477: "printf": в строке форматирования "%9s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "const char **"
+C:\Users\egori\Desktop\учеба\Курс прога\курсовая\курсовая\Source.cpp(137,14): warning C4477: "printf": в строке форматирования "%9s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "const char **"
+  курсовая.vcxproj -> C:\Users\egori\Desktop\учеба\Курс прога\курсовая\x64\Debug\курсовая.exe
